@@ -26,7 +26,7 @@
 <br/>
 
 
-<img align="right" alt="GIF" src="https://github.com/user-attachments/assets/2c656cab-1cc3-4f43-aa1d-86c211f648c9" width="420px"/>
+<img align="right" alt="GIF" src="https://github.com/user-attachments/assets/2c656cab-1cc3-4f43-aa1d-86c211f648c9" width="360px"/>
 
 <!--<h3 align="center" style="color: #61dafb">🧐 More About Me:</h3>-->
 <h3 align="left" style="color: #61dafb;">-: 🧐 More About Me :-</h3>
