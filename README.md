@@ -65,41 +65,29 @@
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
 <a href="[https://www.selenium.dev](https://www.selenium.dev/)" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="[https://www.tensorflow.org](https://www.tensorflow.org/)" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-<h2 align="center" style="color: #61dafb;">-:  📊 Github Stats :-</h2>
-<!--
+<h2 align="center" style="color: #61dafb;">-: 📊 Github Stats :-</h2>
 
-https://github-readme-stats.vercel.app/api?username=Dheerajkulariya&show_icons=true&theme=github_dark_dimmed
-
-<a href="https://git.io/streak-stats"><img align="left" width=410 src="[https://streak-stats.demolab.com?user=Dheerajkulariya&theme=github-dark-dimmed](https://streak-stats.demolab.com/?user=Dheerajkulariya&theme=github-dark-dimmed)" alt="GitHub Streak" /></a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" width=390 src="https://github-readme-stats.vercel.app/api?username=Dheerajkulariya&&show_icons=true&theme=github_dark_dimmed"/>
-</a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img width=310 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dheerajkulariya&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2B%2B,Cuda&title_color=1e90ff&text_color=ffffff&icon_color=1e90ff&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
-</a>
--->
+</div>
 
 <br>
-<p align=center>
-<div align=center>
-<a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-<img align="left" width=330 src="https://streak-stats.demolab.com/?user=Dheerajkulariya&theme=react&border=61dafb&hide_border=true" alt="Dheerajkulariya" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img width=320 height=130 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dheerajkulariya&theme=react&border=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" /></a>
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-<img align="right" width=310 src="https://github-readme-stats.vercel.app/api?username=Dheerajkulariya&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-</a>
+<p align="center">
+    <div align="center">
+        <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source" style="flex: 1; min-width: 300px;">
+            <img align="left" width="330" src="https://streak-stats.demolab.com/?user=Dheerajkulariya&theme=react&border=61dafb&hide_border=true" alt="Dheerajkulariya" />
+        </a>
+        <a href="https://github.com/anuraghazra/github-readme-stats" style="flex: 1; min-width: 300px;">
+            <img width="320" height="130" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dheerajkulariya&theme=react&border=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
+        </a>
+        <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source" style="flex: 1; min-width: 300px;">
+            <img align="right" width="310" src="https://github-readme-stats.vercel.app/api?username=Dheerajkulariya&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+        </a>
+    </div>
+</p>
+
 <br><br><br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dheerajkulariya&&theme=react-dark&show_icons=true&bg_color=20232a&hide_border=true" width="100%"/>
-
 <br>
-
-</p>
 
 <h2 align="center" style="color: #61dafb;">-:  🛠️ My Projects 🛠️ :-</h2>
 
